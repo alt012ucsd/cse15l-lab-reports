@@ -2,6 +2,9 @@
 
 This page will give instructions on how to complete remote access, and some commands that can be used.
 
+## Information/ Login
+1. In order to complete remote access, you are required to have both your Tritonlink Username and Password, or CSE 15L Username and Password. For example's sake the former will be used.
+
 ## Installing VScode
 1. The first step is to go to the following website: https://code.visualstudio.com/
 2. Using the given instructions download VScode onto your system
@@ -13,3 +16,6 @@ This page will give instructions on how to complete remote access, and some comm
 2. After installation, switch back to your new file and use **CTRL + SHIFT + P**
 3. Type in **Select Default Profile**, use ENTER, and select **GitBash**
 ![Image](selectdefaulprofile.png)
+![Image](gitbash.png)
+4. Open the terminal by using **CTRL + `** or using **Terminal** then **New Terminal**
+5. In the terminal type **ssh** with a space, followed by your Tritonlink Username and the statement **@ieng6.ucsd.edu** 
