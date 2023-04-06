@@ -21,4 +21,6 @@ This page will give instructions on how to complete remote access, and some comm
 5. In the terminal type **ssh** with a space, followed by your Tritonlink Username and the statement **@ieng6.ucsd.edu** 
 ![Image](terminal.png)
 6. After clicking **Enter** the terminal will prompt for a password, which should be your Tritonlink password.
-  Hint: For some reason the hotbar won't display text from copy/paste nor typing; imagine that the text is still being shown to the computer and select **Enter**
+>Hint: For some reason the hotbar won't display text; imagine that the text is still being shown to the computer and select **Enter**
+7. If the prompt *the authenticity of...* appears, type **yes**, **Enter**, and submit your password.
+8. You will be successful in the remote connection if the following appears:
