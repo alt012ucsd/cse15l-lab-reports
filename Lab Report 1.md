@@ -24,3 +24,4 @@ This page will give instructions on how to complete remote access, and some comm
 >Hint: For some reason the hotbar won't display text; imagine that the text is still being shown to the computer and select **Enter**
 7. If the prompt *the authenticity of...* appears, type **yes**, **Enter**, and submit your password.
 8. You will be successful in the remote connection if the following appears:
+![Image](result.png)
