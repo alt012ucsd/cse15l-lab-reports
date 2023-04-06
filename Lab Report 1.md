@@ -14,7 +14,7 @@ This page will give instructions on how to complete remote access, and some comm
 ## Obtaining & Using Git Bash
 1. Visit the following: https://gitforwindows.org/, and download git onto your system.
 2. After installation, switch back to your new file and use **CTRL + SHIFT + P**.
-3. Type in **Select Default Profile**, use ENTER, and select **GitBash**.
+3. Type in **Select Default Profile**, use **ENTER**, and select **GitBash**.
 ![Image](selectdefaulprofile.png)
 ![Image](gitbash.png)
 4. Open the terminal by using **CTRL + `** or using **Terminal** then **New Terminal**.
