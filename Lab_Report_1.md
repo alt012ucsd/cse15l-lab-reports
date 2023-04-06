@@ -6,6 +6,10 @@ This page will give instructions on how to complete remote access, and some comm
 1. In order to complete remote access, you are required to have both your Tritonlink Username and Password, or CSE 15L Username and Password. For example's sake the former will be used.
 2. The following steps will be provided, but you will also need to download VScode and Git Bash.
 
+## If using CSE 15L Account
+1. To start off, head to this link: https://alt012ucsd.github.io/cse15l-lab-reports/.html and sign in using your Tritonlink Username, and Student PID (usually begins with an A and 9 digits)
+2. 
+
 ## Installing VScode
 1. The first step is to go to the following website: https://code.visualstudio.com/. This will allow you to gain access to VScode.
 2. Using the given instructions, download VScode onto your system. When its done downloading, open the file.
