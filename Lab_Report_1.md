@@ -9,7 +9,7 @@ This page will give instructions on how to complete remote access, and some comm
 ## If Using CSE 15L Account
 1. To start off, head to this link: https://sdacs.ucsd.edu/~icc/index.php and sign in using your Tritonlink Username, and Student PID (usually begins with an A and 9 digits)
 2. Click the button below **Additional Accounts**, it should be your CSE Username and starts with *cs* (write this down for the next steps).
-![Image](accounts.png)
+![Image](account.png)
 4. Select the link named **Global Password Change Tool**, and the next link **Proceed to the Password Change Tool**.
 5. In the AD Password Change Tool, you'll want to enter your CSE Username from the previous button.
 6. Select the phrase **I want to reset my course-specific account password**.
