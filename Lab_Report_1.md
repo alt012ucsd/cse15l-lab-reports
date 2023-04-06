@@ -9,11 +9,12 @@ This page will give instructions on how to complete remote access, and some comm
 ## If Using CSE 15L Account
 1. To start off, head to this link: https://sdacs.ucsd.edu/~icc/index.php and sign in using your Tritonlink Username, and Student PID (usually begins with an A and 9 digits)
 2. Click the button below **Additional Accounts**, it should be your CSE Username and starts with *cs* (write this down for the next steps).
-3. Select the link named **Global Password Change Tool**, and the next link **Proceed to the Password Change Tool**.
-4. In the AD Password Change Tool, you'll want to enter your CSE Username from the previous button.
-5. Select the phrase **I want to reset my course-specific account password**.
-6. After completing the two-factor authentication, you'll be asked to use a link sent your email to complete the password reset process.
-7. After the new password is authorized, the corresponding CSE Username and Password can be used for signing in remotely.
+![Image](accounts.png)
+4. Select the link named **Global Password Change Tool**, and the next link **Proceed to the Password Change Tool**.
+5. In the AD Password Change Tool, you'll want to enter your CSE Username from the previous button.
+6. Select the phrase **I want to reset my course-specific account password**.
+7. After completing the two-factor authentication, you'll be asked to use a link sent your email to complete the password reset process.
+8. After the new password is authorized, the corresponding CSE Username and Password can be used for signing in remotely.
 
 ## Installing VScode
 1. The first step is to go to the following website: https://code.visualstudio.com/. This will allow you to gain access to VScode.
