@@ -30,10 +30,12 @@ This page will give instructions on how to complete remote access, and some comm
 
 ## Commands
 Below is a list of some simple commands to experiment with in the terminal.
-- clear (clears the terminal)
-- exit (exits the terminal)
 - cd
 - ls
 - pwd
 - mkdir
 - cp
+
+>Useful Commands:
+- clear (clears the terminal)
+- exit (exits the terminal)
