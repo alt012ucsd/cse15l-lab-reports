@@ -19,3 +19,6 @@ This page will give instructions on how to complete remote access, and some comm
 ![Image](gitbash.png)
 4. Open the terminal by using **CTRL + `** or using **Terminal** then **New Terminal**
 5. In the terminal type **ssh** with a space, followed by your Tritonlink Username and the statement **@ieng6.ucsd.edu** 
+![Image](terminal.png)
+6. After clicking **Enter** the terminal will prompt for a password, which should be your Tritonlink password.
+  Hint: For some reason the hotbar won't display text from copy/paste nor typing; imagine that the text is still being shown to the computer and select **Enter**
