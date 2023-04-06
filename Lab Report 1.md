@@ -35,6 +35,9 @@ Below is a list of some simple commands to experiment with in the terminal.
 - pwd
 - mkdir
 - cp
+- cd ~
+- ls -lat
+- ls -a
 
 >Useful Commands:
 >- clear (clears the terminal)
