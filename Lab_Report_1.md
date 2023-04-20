@@ -62,6 +62,6 @@ Below is a list of some simple commands to experiment with in the terminal.
 
 
 
->Useful Commands:
+Useful Commands:
 >- clear (clears the terminal)
 >- exit (exits the terminal)
