@@ -47,13 +47,16 @@ Below is a list of some simple commands to experiment with in the terminal.
 
 - ls <path> (List)
 > Used to list the files and folders of the path given.
-
+![Image](ls.png)
+ 
 - cd <path> (Change Directory)
 > Used to switch the current working directory to the path given.
+![Image](cd.png)
 
 - mkdir <directory name> (Make Directory)
 > Used to make a directory, produces error if it already exists
-
+![Image](mkdir.png)
+  
 - cp <file/ directory name> <file / directory name> (Copy)
 > Used to copy the contents of the 1st file to the 2nd file or copies all files of the first directory to the second directory.
 
