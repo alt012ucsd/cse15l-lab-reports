@@ -59,7 +59,7 @@ Below is a list of some simple commands to experiment with in the terminal.
   
 - cp <file/ directory name> <file / directory name> (Copy)
 > Used to copy the contents of the 1st file to the 2nd file or copies all files of the first directory to the second directory.
-
+![Image](cp.png)
 
 
 Useful Commands:
