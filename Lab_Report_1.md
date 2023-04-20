@@ -54,7 +54,7 @@ Below is a list of some simple commands to experiment with in the terminal.
 ![Image](cd.png)
 
 - mkdir <directory name> (Make Directory)
-> Used to make a directory, produces error if it already exists
+> Used to make a directory, produces error if it already exists.
 ![Image](mkdir.png)
   
 - cp <file/ directory name> <file / directory name> (Copy)
