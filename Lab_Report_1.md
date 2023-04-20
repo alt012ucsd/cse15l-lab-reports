@@ -43,6 +43,7 @@ This page will give instructions on how to complete remote access, and some comm
 Below is a list of some simple commands to experiment with in the terminal.
 - pwd (Print Working Directory)
 > Prints the current working directory.
+![Image](pwd.png)
 
 - ls <path> (List)
 > Used to list the files and folders of the path given.
