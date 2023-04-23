@@ -1,4 +1,4 @@
 # Lab Report 2 - Servers and Bugs
 
 ## Part 1
-![Image](string_server.png)
+![Image](stringserver.png)
