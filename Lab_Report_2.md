@@ -13,5 +13,25 @@
 - For **handleRequest**, **url** is the given local host in which the following commands will be centered around. **getPath** uses **.equals** to check if the specific string **/add-message** is contained in the url. **getQuery** is used to obtain the query, and checked with **startsWith** that has the value of **s=**. **subString** contains the index 2, to output the strings after **s=**.
 - From this specific request, **url** contains the value of the local host url, **query** becomes s=Hello There!, and s will contain the value of the substring after 2, Hello There!. In this case another new line is created below Hello World, and Hello There! is placed below it.
 
-#Part 2
+## Part 2
 
+Non-Failure Inducing Code:
+```
+public class ArrayTests{
+
+  @Test
+  public void testReversed() {
+    int[] input1 = { };
+    assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
+  }
+}
+```
+
+Failure Inudcing Code:
+```
+@Test
+  public void testReversed2(){
+    int[] input2 = {5, 6, 7, 8};
+    assertArrayEquals(new int[] {8, 7, 6, 5}, ArrayExamples.reversed (input2));
+  }
+```
