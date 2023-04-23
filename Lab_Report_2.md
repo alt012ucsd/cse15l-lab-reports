@@ -60,4 +60,7 @@ static int[] reversed(int[] arr) {
   }
 ```
 Explanation:
-The bug present in this code was the method updating the original array (arr), and not the new array (newArray). To simply fix this, you switch the array being updated and returned from arr to newArray. 
+The bug present in this code was the method updating the original array (arr), and not the new array (newArray). To simply fix this, you switch the array being updated at the index of arr to the index of newArray and return newArray instead of arr. 
+
+## Part 3
+One important thing I didn't know before was the use of JUnit testing. I didn't know how to specifically create test cases using JUnit testing, because in CSE 8B Miranda, we were taught to use Tester T which is similar but not exactly the same. The lab taught me how to properly debug using it, and it will be very useful in my other coding classes. Another thing I learned was how to host a local website, which was a very interesting concept.
