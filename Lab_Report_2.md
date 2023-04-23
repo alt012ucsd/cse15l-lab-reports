@@ -59,3 +59,5 @@ static int[] reversed(int[] arr) {
     return newArray;
   }
 ```
+Explanation:
+The bug present in this code was the method updating the original array (arr), and not the new array (newArray). To simply fix this, you switch the array being updated and returned from arr to newArray. 
