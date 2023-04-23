@@ -29,7 +29,7 @@ public class ArrayTests{
 }
 ```
 
-Failure Inudcing Code:
+Failure Inducing Code:
 ```
 @Test
   public void testReversed2(){
