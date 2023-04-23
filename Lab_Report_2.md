@@ -12,3 +12,6 @@
 - **handleRequest** is called in which it takes in a given url to execute the following commands. **getPath** is used in conjunction with **.equals** to check if the **/add-message** string is present to continue the code body. **getQuery** is used to get the query of the given url. **startsWith** is used in the or statement to check if the query begins with **s=**, and **substring** produces the string after the **s=**. **runningString** as a variable is also utilized to create a new line with the aforementioned string.
 - For **handleRequest**, **url** is the given local host in which the following commands will be centered around. **getPath** uses **.equals** to check if the specific string **/add-message** is contained in the url. **getQuery** is used to obtain the query, and checked with **startsWith** that has the value of **s=**. **subString** contains the index 2, to output the strings after **s=**.
 - From this specific request, **url** contains the value of the local host url, **query** becomes s=Hello There!, and s will contain the value of the substring after 2, Hello There!. In this case another new line is created below Hello World, and Hello There! is placed below it.
+
+#Part 2
+
