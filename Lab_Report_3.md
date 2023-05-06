@@ -53,3 +53,9 @@ In this case, we're searching for a line in the **5_Legal_Groups.txt** that star
 ![Image](grepor.png)
 
 In this case, the use of **\|** functions as an or operater, allowing us to search for two patterns at once. This is very useful in looking for two queries at the same time within a document.
+
+`grep "ripple effects\|Legal Aid" c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Media/balance_scales_of_justice.txt`
+
+![Image](grepor2.png)
+
+IN this case, we're searching through the document **balance_scales_of_justice.txt** for two patterns, which are **ripple effects** ad **Legal Aid**. This is useful in terms of efficiency, as we can search for two patterns in one line as opposed to two.
