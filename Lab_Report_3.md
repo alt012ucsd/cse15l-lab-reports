@@ -46,3 +46,10 @@ In this case, using the format above you can search through a file for lines tha
 
 In this case, we're searching for a line in the **5_Legal_Groups.txt** that starts with **Five** and ends with **legal**. This can be useful is loooking for a specific line within a text document.
 
+# grep or
+
+`grep "Illinois\|Lawyers" c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Media/Annual_Fee.txt`
+
+![Image](grepor.png)
+
+In this case, the use of **\|** functions as an or operater, allowing us to search for two patterns at once. This is very useful in looking for two queries at the same time within a document.
