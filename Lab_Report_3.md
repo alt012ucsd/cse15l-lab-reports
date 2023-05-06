@@ -32,4 +32,5 @@ In this case, -v is used with the grep command to return all strings in the docu
 
 ![Image](grepv2.png)
 
+In this case, -v is used with grep to return all lines not included in the pattern specified. This is useful when looking through a document and want to exclude certain phrases or information.
 
