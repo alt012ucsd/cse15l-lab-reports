@@ -6,3 +6,5 @@ grep -r
 
 `grep "answer" -r c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/911report
 `
+
+![Image] (grep r.png)
