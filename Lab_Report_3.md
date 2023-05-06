@@ -15,3 +15,4 @@ grep -v
 `grep -v "Legal Aid Gets $7 Million on its 50th Joseph Barrwas" c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Media/Aid_Gets_7_Million.txt
 `
 
+![Image](grepv.png)
