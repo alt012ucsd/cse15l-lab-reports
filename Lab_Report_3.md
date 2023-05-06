@@ -32,3 +32,10 @@ In this case, -v is used with the grep command to return all strings in the docu
 
 In this case, -v is used with grep to return all lines not included in the pattern specified. This is useful when looking through a document and want to exclude certain phrases or information.
 
+# grep start & end
+
+`grep "^Robert.*Scocchera$" c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Post_Rate_Comm/Cohenetal_comparison.txt`
+
+![Image](grepstartend.png)
+
+In this case, using the format above you can search through a file for lines that start with **start** and end with **end**. This can be very useful when trying to search for specific lines or formats within a text.
