@@ -39,3 +39,10 @@ In this case, -v is used with grep to return all lines not included in the patte
 ![Image](grepstartend.png)
 
 In this case, using the format above you can search through a file for lines that start with **start** and end with **end**. This can be very useful when trying to search for specific lines or formats within a text.
+
+`grep "^Five.*legal$" c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Media/5_Legal_Groups.txt`
+
+![Image](grepstartend2.png)
+
+In this case, we're searching for a line in the **5_Legal_Groups.txt** that starts with **Five** and ends with **legal**. This can be useful is loooking for a specific line within a text document.
+
