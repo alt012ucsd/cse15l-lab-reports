@@ -26,3 +26,10 @@ In this case, -r used with grep searches recursively through all the files in th
 ![Image](grepvnew.png)
 
 In this case, -v is used with the grep command to return all strings in the document **Barnes_Volunteers.txt** that are not a part of the given pattern. This is very useful in smaller documents when trying to locate patterns unrelated to the one you're using as an input.
+
+`grep -v "Most patients with celiac disease can eliminate their" c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/plos/pmed.0010023.txt
+
+
+![Image](grepv2.png)
+
+
