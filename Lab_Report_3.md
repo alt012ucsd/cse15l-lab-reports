@@ -15,6 +15,7 @@ In this case, -r used with the grep command is recursively searching for all pat
 ![Image](grepr2.png)
 In this case, -r used with grep searches recursively through all the files in the directory **Post_Rate_Comm** for any patterns of Robert H.Cohen. This is very useful for certain documents in which you're looking for a specific individual's name.
 
+Sources: [Link Grep Commands](https://man7.org/linux/man-pages/man1/grep.1.html), ChatGPT
 
 
 # grep -v
@@ -32,6 +33,8 @@ In this case, -v is used with the grep command to return all strings in the docu
 
 In this case, -v is used with grep to return all lines not included in the pattern specified. This is useful when looking through a document and want to exclude certain phrases or information.
 
+Sources: [Link Grep Commands](https://man7.org/linux/man-pages/man1/grep.1.html), ChatGPT
+
 # grep start & end
 
 `grep "^Robert.*Scocchera$" c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Post_Rate_Comm/Cohenetal_comparison.txt`
@@ -46,6 +49,8 @@ In this case, using the format above you can search through a file for lines tha
 
 In this case, we're searching for a line in the **5_Legal_Groups.txt** that starts with **Five** and ends with **legal**. This can be useful is loooking for a specific line within a text document.
 
+Sources: [Start and End Grep](https://www.geeksforgeeks.org/grep-command-in-unixlinux/), ChatGPT
+
 # grep or
 
 `grep "Illinois\|Lawyers" c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Media/Annual_Fee.txt`
@@ -58,4 +63,6 @@ In this case, the use of **\|** functions as an or operater, allowing us to sear
 
 ![Image](grepor2.png)
 
-IN this case, we're searching through the document **balance_scales_of_justice.txt** for two patterns, which are **ripple effects** ad **Legal Aid**. This is useful in terms of efficiency, as we can search for two patterns in one line as opposed to two.
+In this case, we're searching through the document **balance_scales_of_justice.txt** for two patterns, which are **ripple effects** ad **Legal Aid**. This is useful in terms of efficiency, as we can search for two patterns in one line as opposed to two.
+
+Sources: [Link Grep Commands](https://man7.org/linux/man-pages/man1/grep.1.html), ChatGPT
