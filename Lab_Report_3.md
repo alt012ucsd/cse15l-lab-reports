@@ -34,7 +34,7 @@ In this case, -v is used with the grep command to return all strings in the docu
 `grep -v "Most patients with celiac disease can eliminate their" c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/plos/pmed.0010023.txt`
 
 
-![Image](grepv2.png), ChatGPT
+![Image](grepv2.png)
 
 In this case, -v is used with grep to return all lines not included in the pattern specified. This is useful when looking through a document and want to exclude certain phrases or information.
 
