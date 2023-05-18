@@ -15,7 +15,10 @@ In this case, -r used with the grep command is recursively searching for all pat
 ![Image](grepr2.png)
 In this case, -r used with grep searches recursively through all the files in the directory **Post_Rate_Comm** for any patterns of Robert H.Cohen. This is very useful for certain documents in which you're looking for a specific individual's name.
 
-Sources: [Link Grep Commands](https://man7.org/linux/man-pages/man1/grep.1.html)
+Sources: [Link Grep Commands](https://man7.org/linux/man-pages/man1/grep.1.html)< ChatGPT
+ChatGPT Prompt: "What is one command-line option for grep in bash?" 
+ChatGPT Response: 
+![Image](chatgpt1.png)
 
 
 # grep -v
