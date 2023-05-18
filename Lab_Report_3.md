@@ -36,7 +36,7 @@ In this case, -v is used with the grep command to return all strings in the docu
 
 In this case, -v is used with grep to return all lines not included in the pattern specified. This is useful when looking through a document and want to exclude certain phrases or information.
 
-Sources: [Link Grep Commands](https://man7.org/linux/man-pages/man1/grep.1.html)< ChatGPT
+Sources: [Link Grep Commands](https://man7.org/linux/man-pages/man1/grep.1.html), ChatGPT
 ChatGPT Prompt: "What is another command-line option for grep in bash?" 
 ChatGPT Response: 
 ![Image](chatgpt2.png)
