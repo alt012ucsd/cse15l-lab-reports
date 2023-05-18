@@ -76,4 +76,5 @@ In this case, -c is used to count the number of lines the pattern "research" app
 ![Image](grepc2.png) 
 
 In this case, -c is used to count the number of lines the pattern "free" appears on the text document "5_Legal_Groups.txt".
+
 Sources: [Link Grep Commands](https://man7.org/linux/man-pages/man1/grep.1.html)
