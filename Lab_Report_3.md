@@ -47,8 +47,22 @@ ChatGPT Response:
 
 # grep -i
 
+
+
 Sources: [Link Grep Commands](https://man7.org/linux/man-pages/man1/grep.1.html)
 
 # grep -c
 
+`grep -c "research" 'c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Alcohol_problems/DraftRecom-PDF.txt'
+`
+![Image](grepc.png)
+
+In this case, -c is used to count the number of lines the pattern "research" appears. This is very useful when trying to narrow down the number of lines in which your pattern appears.
+
+`grep -c "free" 'c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Media/5_Legal_Groups.txt'
+`
+
+![Image](grepc2.png) 
+
+In this case, -c is used to count the number of lines the pattern "free" appears on the text document "5_Legal_Groups.txt".
 Sources: [Link Grep Commands](https://man7.org/linux/man-pages/man1/grep.1.html)
