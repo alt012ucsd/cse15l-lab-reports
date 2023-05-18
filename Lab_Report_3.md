@@ -47,6 +47,17 @@ ChatGPT Response:
 
 # grep -i
 
+`grep -i "analysis" 'c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Post_Rate_Comm/Cohenetal_CreamSkimming.txt'
+`
+![Image](grepi.png)
+
+In this case, -i is used to return all lines of the text in accordance with the pattern "analysis." The difference is it will be case-insensitive, returning things like ANALYSIS, Analysis, and analysis as opposed to lines with just analysis. This is useful for identifying instances of words.
+
+`grep -i "section" 'c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Env_Prot_Agen/ctf1-6.txt'
+`
+![Image](grepi2.png)
+
+In this case, -i is returning all patterns of "section" regardless of case sensitivity. Instead of simply returning "section" its returning SECTION, and Section as well. This is useful if you're trying to count or find any occurence of a word regardless of upper or lowercase.
 
 
 Sources: [Link Grep Commands](https://man7.org/linux/man-pages/man1/grep.1.html)
