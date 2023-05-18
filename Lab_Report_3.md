@@ -41,34 +41,6 @@ In this case, -v is used with grep to return all lines not included in the patte
 
 Sources: [Link Grep Commands](https://man7.org/linux/man-pages/man1/grep.1.html)
 
-# grep start & end
 
-`grep "^Robert.*Scocchera$" c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Post_Rate_Comm/Cohenetal_comparison.txt`
-
-![Image](grepstartend.png)
-
-In this case, using the format above you can search through a file for lines that start with **start** and end with **end**. This can be very useful when trying to search for specific lines or formats within a text.
-
-`grep "^Five.*legal$" c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Media/5_Legal_Groups.txt`
-
-![Image](grepstartend2.png)
-
-In this case, we're searching for a line in the **5_Legal_Groups.txt** that starts with **Five** and ends with **legal**. This can be useful is loooking for a specific line within a text document.
-
-Sources: [Start and End Grep](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
-
-# grep or
-
-`grep "Illinois\|Lawyers" c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Media/Annual_Fee.txt`
-
-![Image](grepor.png)
-
-In this case, the use of **\|** functions as an or operater, allowing us to search for two patterns at once. This is very useful in looking for two queries at the same time within a document.
-
-`grep "ripple effects\|Legal Aid" c:/Users/andyy/OneDrive/Documents/GitHub/stringsearch/stringsearch-data/technical/government/Media/balance_scales_of_justice.txt`
-
-![Image](grepor2.png)
-
-In this case, we're searching through the document **balance_scales_of_justice.txt** for two patterns, which are **ripple effects** ad **Legal Aid**. This is useful in terms of efficiency, as we can search for two patterns in one line as opposed to two.
 
 Sources: [Link Grep Commands](https://man7.org/linux/man-pages/man1/grep.1.html), ChatGPT
