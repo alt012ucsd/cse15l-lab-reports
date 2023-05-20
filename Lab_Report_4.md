@@ -7,6 +7,7 @@ Step 4:
 I typed my remote access login information, followed by <enter> to establish remote connection.
   
 Step 5:
+  
 ![Image](step5.png)
 
   
