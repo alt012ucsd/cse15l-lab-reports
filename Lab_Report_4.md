@@ -33,6 +33,16 @@ I then used the change directory command to change into lab7's directory, follow
 Keys pressed: `<up> * 5 | <left> * 12 | i | <backspace> | 2 | <esc> | :w | :q |`
 I navigated to the line `index1+=1`, then entered insert mode. I then deleted the 1, inputted the 2, used esc, and saved while exiting vim.
 
+`<up>` is the up arrow key allowing me to move upward.
+
+`<left>` is the left arrow key allowing me to move left.
+
+`i` enables insert mode, allowing the user to edit the code with the keyboard.
+
+`w:` saves the edits made to the code.
+
+`q:` exits the file.
+
 ![Image](vimresult.png)
 
 Step 8:
