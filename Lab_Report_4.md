@@ -26,7 +26,7 @@ I then used the change directory command to change into lab7's directory, follow
 
 ![Image](vimstep2.png)
 
-Keys pressed: `<up> * 5 | <left> * 12 | i | <backspace> | 2 | <esc> | :w | :q |
+Keys pressed: `<up> * 5 | <left> * 12 | i | <backspace> | 2 | <esc> | :w | :q |`
 I navigated to the line `index1+=1`, then entered insert mode. I then deleted the 1, inputted the 2, used esc, and saved while exiting vim.
 
 ![Image](vimresult.png)
@@ -34,11 +34,14 @@ I navigated to the line `index1+=1`, then entered insert mode. I then deleted th
 Step 8:
 
 I used `bash test.sh` to run the testers. I passed both of them, leaving me to conclude I made the corrections and the code is working properly now.
+
 ![Image](bashtest.png)
 
 Step 9:
 
+I then used git add and commit with the following message "Fix failing tests" to push my changes to my github page.
 
+![Image](gitpush2.png)
   
   
   
