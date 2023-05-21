@@ -22,10 +22,21 @@ I ran the following tests in the `test.sh` file, which yielded some errors.
 
 Step 7:
 
-I then used the change directory command to change into lab7's directory, followed by looking for the ListExamplesTests.java which held the JUnit tests. I then activated vim with the corresponding file.
+I then used the change directory command to change into lab7's directory, followed by looking for the ListExamples.java which held the corresponding code. I then activated vim with the corresponding file.
 
-![Image](vimstep.png)
+![Image](vimstep2.png)
 
+Keys pressed: `<up> * 5 | <left> * 12 | i | <backspace> | 2 | <esc> | :w | :q |
+I navigated to the line `index1+=1`, then entered insert mode. I then deleted the 1, inputted the 2, used esc, and saved while exiting vim.
+
+![Image](vimresult.png)
+
+Step 8:
+
+I used `bash test.sh` to run the testers. I passed both of them, leaving me to conclude I made the corrections and the code is working properly now.
+![Image](bashtest.png)
+
+Step 9:
 
 
   
