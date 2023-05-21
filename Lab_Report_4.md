@@ -14,11 +14,20 @@ I then used the git clone command followed by the url of the repository I was fo
 
 ![Image](vimstep.png)
 
-I then used the change directory command to enter lab7 followed by `<enter>`, then used the list command to view the files inside the directory `<enter>`. I then started vim on the ListExamplesTests.java file `<enter>`.
-
 Step 6:
 
-Keys Pressed: 
+I ran the following tests in the `test.sh` file, which yielded some errors.
+
+![Image](tests.png)
+
+Step 7:
+
+I then used the change directory command to change into lab7's directory, followed by looking for the ListExamplesTests.java which held the JUnit tests. I then activated vim with the corresponding file.
+
+![Image](vimstep.png)
+
+
+
   
   
   
