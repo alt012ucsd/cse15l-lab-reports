@@ -3,7 +3,7 @@
 ## Part 1 - Debugging Scenario
 Student Post:
 
-![Image](labreport5pic1.png)
+![Image]()
 
 ![Image](labreport5pic2.png)
 
