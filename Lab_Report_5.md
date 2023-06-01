@@ -3,6 +3,8 @@
 ## Part 1 - Debugging Scenario
 Student Post:
 
+[Image](labreport5pic1.png)
+
 
 
 
