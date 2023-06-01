@@ -44,3 +44,5 @@ Edit to Fix the Bug:
 - By navigating to the for loop, by adding `-i` after the `arr.length` and before the `-1` does it fix the errors produced. This is because originally, subtracting 1 from the length would either update the array incorrectly, or not at all. With the addition of `i`, the for loop begins to carry out its intended function by reversing each index.
 
 ## Part 2 - Reflection
+
+One really interesting thing I learned was how to run JUnit tests from the command line, as well as using vim to edit the code from the command line as well. This will prove to be invaluable information as not all the time will I have access to interfaces, making editing from the command line both interesting and a neccessity. Vim was a cool thing to learn as I originally had no clue you could edit code from the terminal, while being able to run tests as well.
