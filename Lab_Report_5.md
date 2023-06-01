@@ -21,7 +21,9 @@ I've noticed that in an array of two values, neither the first or second index w
 
 4.) Setup
 
-- I used the files `ArrayExamples.java` and `ArrayTests.java` in the `lab3` directory. These were files included with Lab 3.
+Files & Directory:
+
+I used the files `ArrayExamples.java` and `ArrayTests.java` in the `lab3` directory. These were files included with Lab 3.
 
 Contents Before the Changes:
 
@@ -35,7 +37,10 @@ Contents After the Changes:
 
 Command to Produce Bug:
 
-![Image](usedtorunbug.png)
+![Image](usedtorunbugs.png)
 
+Edit to Fix the Bug:
+
+- By navigating to the for loop, by adding `-i` after the `arr.length` and before the `-1` does it fix the errors produced. This is because originally, subtracting 1 from the length would either update the array incorrectly, or not at all. With the addition of `i`, the for loop begins to carry out its intended function by reversing each index.
 
 ## Part 2 - Reflection
