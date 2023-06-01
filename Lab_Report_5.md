@@ -1,1 +1,10 @@
-## Lab Report 5
+# Lab Report 5
+
+## Part 1 - Debugging Scenario
+Student Post:
+
+
+
+
+
+## Part 2 - Reflection
