@@ -25,4 +25,17 @@ I've noticed that in an array of two values, neither the first or second index w
 
 Contents Before the Changes:
 
+![Image](labreport5fix1.png)
+![Image](labreport5fix3.png)
+
+Contents After the Changes:
+
+![Image](labreport5fix2.png)
+![Image](labreportfix6.png)
+
+Command to Produce Bug:
+
+![Image](usedtorunbug.png)
+
+
 ## Part 2 - Reflection
